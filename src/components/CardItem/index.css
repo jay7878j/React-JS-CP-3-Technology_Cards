@@ -1,0 +1,42 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  max-width: 325px;
+  margin-right: 25px;
+}
+
+.img {
+  align-self: flex-end;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #171f46;
+}
+
+.para1 {
+  color: #64748b;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
